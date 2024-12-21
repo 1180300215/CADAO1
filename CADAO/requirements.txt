@@ -1,0 +1,10 @@
+# * python 3.8 *
+torch
+wandb
+matplotlib
+open_spiel
+gym==0.15.7
+numpy==1.23.5
+transformers==4.5.1
+packaging==21.3
+ml_logger
